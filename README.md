@@ -22,7 +22,6 @@
 <p>Antes de começar, você precisa ter as seguintes ferramentas instaladas:</p>
 Node.js e MySQL
 
-
 ### Instalação
 1. Clone este repositório:
 ```
@@ -40,12 +39,12 @@ JWT_SECRET="YOUR_KEY_JWT_gerada_pelo_comando_abaixo"
 *Utilizando o comando `node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ` no terminal, o Node.js gerará uma string que você poderá utilizar como sua Key JWT_SECRET*
 
-7. Inicie o servidor:
+4. Inicie o servidor:
 ```
 npm start
 ```
 *A API estará disponível em http://localhost:3000*
-
+<hr>
 ### Contribuindo
 <p>Contribuições são bem-vindas! Siga os seguintes passos para contribuir:</p>
 
