@@ -10,10 +10,12 @@
 
 
 ## Tecnologias utilizadas
-- **Node.js** > Ambiente de execução Javascript do lado servidor (backend);
-- **Express.js** > Framework Node.js;
-- **Prisma** > Interação com o banco de dados relacional MySQL;
-- **JWT (Json Web Token)** > Para autenticar e autorizar usuários;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-35495E?style=for-the-badge)
+![JWT](https://img.shields.io/badge/Jwt-5C2D91?style=for-the-badge)
 
 
 ### Pré-requisitos
